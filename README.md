@@ -1,6 +1,5 @@
 # SmartHomeSystem
-<br>
-##동남권 융복합 캡스톤디자인(LINC USR) 작품
+동남권 융복합 캡스톤디자인(LINC USR) 작품<br>
 ##Interphone.ino
   sending RF signal when the doorbell pressed.
 <br>
