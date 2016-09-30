@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [net.steamcrafted:materialiconlib:1.1.1] /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/build/intermediates/exploded-aar/net.steamcrafted/materialiconlib/1.1.1/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:11:5-89
+	android:required
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:11:64-87
+	android:name
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:11:19-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:14:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:15:5-73
+	android:name
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:15:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:17:22-76
+application
+ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:20:5-47:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [net.steamcrafted:materialiconlib:1.1.1] /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/build/intermediates/exploded-aar/net.steamcrafted/materialiconlib/1.1.1/AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:23:9-41
+	android:supportsRtl
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:24:9-35
+	android:allowBackup
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:22:9-45
+	android:theme
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.somin.finalsmarthome.PHHomeActivity
+ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:26:9-34:20
+	android:label
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:27:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:32:27-74
+activity#com.somin.finalsmarthome.MyApplicationActivity
+ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:36:6-39:17
+	android:label
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:38:11-52
+	android:name
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:37:11-72
+activity#com.somin.finalsmarthome.PHPushlinkActivity
+ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:41:6-44:18
+	android:label
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:43:11-43
+	android:name
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:42:11-69
+service#com.dfrobot.angelo.blunobasicdemo.BluetoothLeService
+ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:45:9-110
+	android:enabled
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:45:86-108
+	android:name
+		ADDED from /Users/leesomin/Desktop/[USR] Smart Home System 전체 코드 (수정주의)/기능 완성된 것/FinalSmartHome_package revised/app/src/main/AndroidManifest.xml:45:18-85
