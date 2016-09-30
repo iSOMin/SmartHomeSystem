@@ -16,7 +16,6 @@
   when "RANDOM" button pressed, it change the light color randomly.
 <br>
 ##additional code
-<br>
 ###smartclockWithLEDMatrix.ino
   getting only bluetooth signal by andriod app and sparys perfume.<br>
   it uses 8x16 adafruit LED Matrix.
